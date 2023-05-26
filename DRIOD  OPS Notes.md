@@ -1,9 +1,13 @@
-# D.R.I.O.D
+# D.R.I.O.D OPS
 - Design 
 - Research
 - Optimize
 - Implement
 - Deliver
+# OPS
+- Organize 
+- Process
+- Secure
 # Focus Hive Inc
 ## Talent management 
 - Timmsi, 
