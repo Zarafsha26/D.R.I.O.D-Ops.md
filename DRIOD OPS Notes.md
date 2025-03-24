@@ -4,7 +4,6 @@
 - Optimize
 - Implement
 - Deliver
-  
 # OPS
 - Organize 
 - Process
